@@ -1,5 +1,5 @@
 # pizza_sales_analysis-power-bi
-This repository features a Power BI report for a comprehensive analysis of pizza sales. The report visualizes crucial business metrics, including total revenue, total quantity sold, &amp; AOV. The dashboard is designed to provide actionable insights by breaking down sales data across various dimensions. 
+This repository features a Power BI report for a comprehensive analysis of pizza sales. The report visualizes crucial business metrics, including total revenue, total quantity sold, AOV. The dashboard is designed to provide actionable insights by breaking down sales data across various dimensions. 
 
 # Pizza Sales Performance Report
 ## Executive Summary:
@@ -112,7 +112,7 @@ The Power BI report includes a variety of visualizations to represent the data e
 
 - **Bar Charts**: Illustrated top-performing pizzas by revenue and quantity, and showed the distribution of orders by day of the week and time of day.
 
-- **Donut Chart**: Showcased the breakdown of sales by pizza category.
+- **Pie Chart**: Showcased the breakdown of sales by pizza category.
 
 - **Area Chart**: Visualized order trends over time, highlighting peak order hours
 
